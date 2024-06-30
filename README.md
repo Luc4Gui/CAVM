@@ -4,7 +4,12 @@ Official Pytorch Implementation of [CAVM: Conditional Autoregressive Vision Mode
 # Citation
 You are encouraged to modify/distribute this code. However, please acknowledge this code and cite the paper appropriately.
 ```
-
+@article{gui2024cavm,
+  title={CAVM: Conditional Autoregressive Vision Model for Contrast-Enhanced Brain Tumor MRI Synthesis},
+  author={Gui, Lujun and Ye, Chuyang and Yan, Tianyi},
+  journal={arXiv preprint arXiv:2406.16074},
+  year={2024}
+}
 ```
 
 ## Acknowledgments
